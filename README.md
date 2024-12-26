@@ -2,3 +2,5 @@
 Criando um e-book com ajuda da inteligência artificial
 
 Tecnologia utilizada no projeto
+- ChatGPT
+- Power Point
