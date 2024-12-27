@@ -11,7 +11,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+  
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -19,24 +19,17 @@ seguem abaixo.
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|   Ação   | prompt                                                                                                                                                                                                                                                           
 |  título  | Crie um título de um ebook sobre o tema de Power BI, o ebook é para usuários iniciantes - sem conhecimento de programação e o subnicho é de para utilização do programa na automatização das rotinas diárias em um bancos, o título deve ser curto, e tenha uma temática feminina, me liste 5 variações de títulos 
 |
-|
-
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+|orientar como utilizar o power bi pra automatizar a visualização de dados para tomada de decisões quanto a contato com clientes
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Material editado com Power Point
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- ebook gerado para o curso de IA via DIO
