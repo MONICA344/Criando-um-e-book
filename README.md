@@ -14,6 +14,8 @@ seguem abaixo.
   
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
+- Não utilizado Midjorney visto que não há opção gratuita
+
 ## 🧠 Prompts
 
 
